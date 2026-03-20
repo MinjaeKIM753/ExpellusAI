@@ -1,0 +1,18 @@
+title: "[Idea] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggest a new feature or improvement for ExpellusAI.
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to see?
+      description: Describe the feature or improvement.
+    validations:
+      required: true
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Use Case
+      description: How would you use this feature? What problem does it solve?

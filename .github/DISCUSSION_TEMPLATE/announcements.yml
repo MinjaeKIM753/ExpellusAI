@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Official announcements from the ExpellusAI team. This category is for maintainers only.
+        Official announcements and updates about ExpellusAI.
   - type: textarea
     id: announcement
     attributes:

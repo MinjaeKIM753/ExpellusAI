@@ -1,0 +1,13 @@
+title: ""
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share your automations, workflows, or creative uses of ExpellusAI!
+  - type: textarea
+    id: showcase
+    attributes:
+      label: What did you build?
+      description: Describe your automation or workflow. Screenshots and recordings are welcome!
+    validations:
+      required: true

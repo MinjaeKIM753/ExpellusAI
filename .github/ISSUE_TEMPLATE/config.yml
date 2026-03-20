@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Question or Discussion
+    url: https://github.com/ExpellusAI/ExpellusAI/discussions
+    about: For questions or general discussion, please use Discussions instead of Issues.
+  - name: Feature Idea
+    url: https://github.com/ExpellusAI/ExpellusAI/discussions/categories/feature-requests
+    about: Have a feature idea? Share it in Discussions first.
