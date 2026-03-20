@@ -1,0 +1,15 @@
+title: "[Announcement] "
+labels:
+  - announcement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Official announcements from the ExpellusAI team. This category is for maintainers only.
+  - type: textarea
+    id: announcement
+    attributes:
+      label: Announcement
+      description: What's new?
+    validations:
+      required: true

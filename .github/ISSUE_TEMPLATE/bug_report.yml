@@ -1,0 +1,77 @@
+name: Bug Report
+description: Report a bug or unexpected behavior in ExpellusAI
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug. Please fill out the information below to help us investigate.
+
+  - type: input
+    id: version
+    attributes:
+      label: ExpellusAI Version
+      description: Which version of ExpellusAI are you using?
+      placeholder: "e.g., Beta 0.1.1"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: variant
+    attributes:
+      label: Installation Variant
+      options:
+        - CUDA (GPU)
+        - CPU
+    validations:
+      required: true
+
+  - type: input
+    id: os
+    attributes:
+      label: Windows Version
+      description: Which version of Windows are you running?
+      placeholder: "e.g., Windows 11 23H2"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: A clear description of what the bug is.
+      placeholder: Describe the bug...
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: How can we reproduce this behavior?
+      placeholder: |
+        1. Open ExpellusAI
+        2. Type '...'
+        3. Click '...'
+        4. See error
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen?
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots / Logs
+      description: If applicable, add screenshots or paste error logs.
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Any other context about the problem.
