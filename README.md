@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="ExpellusAI — AI Desktop Automation" width="100%">
+  <img src="assets/banner.png" alt="ExpellusAI" width="100%">
 </p>
 
 <p align="center">
@@ -13,9 +13,16 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Proprietary-gray?style=flat-square" alt="License"></a>
 </p>
 
+<p align="center">
+  <a href="https://expellusai.com"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Currently_in_Beta-Join_the_Waitlist!-9b59b6?style=for-the-badge" alt="Join Waitlist"></a>
+</p>
+
+> [!NOTE]
+> **ExpellusAI is currently in closed beta.** To get early access, visit [expellusai.com](https://expellusai.com) and join the waitlist. We're onboarding new users in waves, so sign up to secure your spot!
+
 ---
 
-Just tell your computer what to do. ExpellusAI uses AI to **see your screen**, **understand the context**, and **automate any desktop task** — no coding required.
+Just tell your computer what to do. ExpellusAI uses AI to **see your screen**, **understand the context**, and **automate any desktop task**, no coding required.
 
 > *"We built ExpellusAI because following AI instructions shouldn't be harder than the task itself. You ask a chatbot how to change a setting, and it gives you a guide. But the menu moved. The button got renamed. The steps don't match your screen. We thought: what if AI could just do it for you instead?"*
 
@@ -23,10 +30,35 @@ Just tell your computer what to do. ExpellusAI uses AI to **see your screen**, *
 
 ## See It in Action
 
-| Desktop Automation | Multi-App | Browser | System Control | DevTools |
-|:---:|:---:|:---:|:---:|:---:|
-| [▶ Watch Demo](https://rvcslyhyhkarxwueajkb.supabase.co/storage/v1/object/public/landing-page-images/demo/DeskAuto.mp4) | [▶ Watch Demo](https://rvcslyhyhkarxwueajkb.supabase.co/storage/v1/object/public/landing-page-images/demo/Multiapp.mp4) | [▶ Watch Demo](https://rvcslyhyhkarxwueajkb.supabase.co/storage/v1/object/public/landing-page-images/demo/Browser.mp4) | [▶ Watch Demo](https://rvcslyhyhkarxwueajkb.supabase.co/storage/v1/object/public/landing-page-images/demo/Sysconfig.mp4) | [▶ Watch Demo](https://rvcslyhyhkarxwueajkb.supabase.co/storage/v1/object/public/landing-page-images/demo/DevTools.mp4) |
-| Automate any Windows app with natural language | Seamless cross-application workflows | Web browsing, research, and data extraction | System settings, file management, terminal | Code editing, debugging, and dev workflows |
+<details>
+<summary><strong>Desktop Automation</strong>: Automate any Windows app with natural language</summary>
+<br>
+<video src="https://rvcslyhyhkarxwueajkb.supabase.co/storage/v1/object/public/landing-page-images/demo/DeskAuto.mp4" controls width="100%"></video>
+</details>
+
+<details>
+<summary><strong>Multi-App</strong>: Seamless cross-application workflows</summary>
+<br>
+<video src="https://rvcslyhyhkarxwueajkb.supabase.co/storage/v1/object/public/landing-page-images/demo/Multiapp.mp4" controls width="100%"></video>
+</details>
+
+<details>
+<summary><strong>Browser</strong>: Web browsing, research, and data extraction</summary>
+<br>
+<video src="https://rvcslyhyhkarxwueajkb.supabase.co/storage/v1/object/public/landing-page-images/demo/Browser.mp4" controls width="100%"></video>
+</details>
+
+<details>
+<summary><strong>System Control</strong>: System settings, file management, terminal</summary>
+<br>
+<video src="https://rvcslyhyhkarxwueajkb.supabase.co/storage/v1/object/public/landing-page-images/demo/Sysconfig.mp4" controls width="100%"></video>
+</details>
+
+<details>
+<summary><strong>DevTools</strong>: Code editing, debugging, and dev workflows</summary>
+<br>
+<video src="https://rvcslyhyhkarxwueajkb.supabase.co/storage/v1/object/public/landing-page-images/demo/DevTools.mp4" controls width="100%"></video>
+</details>
 
 <br>
 
@@ -36,28 +68,28 @@ Just tell your computer what to do. ExpellusAI uses AI to **see your screen**, *
   <tr>
     <td width="50%">
 
-### 🎨 Visual GUI Interface
-Build and run automations through an intuitive visual interface — no coding, no terminal, no API keys. Just drag, drop, and go.
+### Calibration Module
+Our proprietary multi-layered Calibration Module pinpoints UI elements with pixel-level accuracy. Instead of relying on approximate coordinate guessing, ExpellusAI precisely locates buttons, fields, and controls before every interaction.
 
 </td>
     <td width="50%">
 
-### 💻 Fully Local, No VM Required
-Runs directly on your real Windows desktop. No Docker containers, no virtual machines, no cloud sandboxes. Your data **never leaves your device**.
+### Desktop + Web, Unified
+One agent handles **both** desktop applications and web browsers in a single session. Switch between Excel, Chrome, Zoom, and more without breaking your workflow.
 
 </td>
   </tr>
   <tr>
     <td>
 
-### 🔗 Web + Desktop Unified
-One agent controls **both** your desktop apps and web browser in a single session. Switch between Excel, Chrome, Zoom, and more — seamlessly.
+### Fully Local, No VM Required
+Runs directly on your real Windows desktop. No Docker containers, no virtual machines, no cloud sandboxes. Your data **never leaves your device**.
 
 </td>
     <td>
 
-### ⏸️ Real-Time User Control
-Stay in charge with **Pause** and **Stop** controls. Intervene at any point during automation, review what's happening, and decide how to proceed.
+### Visual Interface, Zero Setup
+Build and run automations through an intuitive GUI. No coding, no terminal commands, no API keys. Just describe what you want and let the AI handle it.
 
 </td>
   </tr>
@@ -71,41 +103,41 @@ Stay in charge with **Pause** and **Stop** controls. Intervene at any point duri
   <tr>
     <td width="50%">
 
-### 🗣️ Natural Language Control
-Simply describe your task in plain English. The AI understands your screen and performs the work automatically.
+### Natural Language Control
+Describe your task in plain English. The AI understands your screen and performs the work automatically.
 
 </td>
     <td width="50%">
 
-### 🖥️ Universal App Compatibility
-Works with **any** Windows application visible on your screen — no APIs or plugins required.
+### Universal App Compatibility
+Works with **any** Windows application visible on your screen, no APIs or plugins required.
 
 </td>
   </tr>
   <tr>
     <td>
 
-### 👁️ Smart Screen Understanding
-AI recognizes buttons, text, and input fields in real-time, interacting precisely where needed.
+### Real-Time User Control
+Stay in charge with **Pause** and **Stop** controls. Intervene at any point during automation, review what's happening, and decide how to proceed.
 
 </td>
     <td>
 
-### 🔐 Secure Local Vault
-Store credentials and personal data locally. Sensitive information **never leaves your device**.
+### Secure Local Vault
+Store credentials and personal data locally. Sensitive information is never exposed to the AI model and **never leaves your device**.
 
 </td>
   </tr>
   <tr>
     <td>
 
-### 🌍 Multi-Language Detection
+### Multi-Language Detection
 Recognizes screen text in **12+ languages** including English, Korean, Japanese, Chinese, and more. GPU acceleration supported.
 
 </td>
     <td>
 
-### 🔄 Workflow Builder
+### Workflow Builder
 Design automation flows visually with drag-and-drop. Save them and execute repeatedly with ease.
 
 </td>
@@ -116,13 +148,13 @@ Design automation flows visually with drag-and-drop. Save them and execute repea
 
 ## Quick Start
 
-Getting started takes less than 5 minutes:
+**1. Join the Waitlist**: Sign up at [expellusai.com](https://expellusai.com) to get early access to the beta.
 
-**1. Download** — Get the latest installer from [expellusai.com/product](https://expellusai.com/product)
+**2. Download**: Once approved, get the latest installer from [expellusai.com/product](https://expellusai.com/product).
 
-**2. Install** — Run the installer and follow the setup wizard. Choose CUDA (GPU) or CPU version.
+**3. Install**: Run the installer and follow the setup wizard. Choose CUDA (GPU) or CPU version.
 
-**3. Automate** — Launch ExpellusAI, type a command like *"Open Chrome and search for today's weather"*, and watch it work.
+**4. Automate**: Launch ExpellusAI, type a command like *"Open Chrome and search for today's weather"*, and watch it work.
 
 > Need help? Check our [Installation Guide](https://expellusai.com/product/installation) and [Windows Security Guide](https://expellusai.com/resources/windows-security-guide) if you see SmartScreen warnings.
 
@@ -144,16 +176,16 @@ Getting started takes less than 5 minutes:
 
 See the full [Changelog](CHANGELOG.md) for detailed version history.
 
-### Beta 0.2.0 — March 2026 *(Latest)*
+### Beta 0.2.0, March 2026 *(Latest)*
 - Prompt history & update checker
 - Redesigned UI/UX
 - Bug fixes, performance & security improvements
 
-### Beta 0.1.3 — March 2026
+### Beta 0.1.3, March 2026
 - Follow-up on finished tasks & context continuation
 - DPI-aware image rendering & bug fixes
 
-### Beta 0.1.0 — February 2026
+### Beta 0.1.0, February 2026
 - Initial deployment with core automation features
 - Natural language control, screen understanding, workflow builder
 
@@ -163,10 +195,10 @@ See the full [Changelog](CHANGELOG.md) for detailed version history.
 
 We'd love to hear from you:
 
-- 💬 **[Discussions](../../discussions)** — Ask questions, share ideas, show off your automations
-- 🐛 **[Issues](../../issues)** — Report bugs or request features
-- 🌐 **[Website](https://expellusai.com)** — Product info and documentation
-- 📧 **[Contact](https://expellusai.com/contact)** — Reach out directly
+- **[Discussions](../../discussions)**: Ask questions, share ideas, show off your automations
+- **[Issues](../../issues)**: Report bugs or request features
+- **[Website](https://expellusai.com)**: Product info and documentation
+- **[Contact](https://expellusai.com/contact)**: Reach out directly
 
 <br>
 
